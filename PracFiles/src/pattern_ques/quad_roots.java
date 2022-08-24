@@ -10,7 +10,7 @@ public class quad_roots {
             double dis = 0;
             int r1=0,r2=0;
 //                    , r1 = 0, r2 = 0;
-            System.out.println("Rnter coefficient of equation");
+            System.out.println("Enter coefficient of equation");
             Scanner in = new Scanner(System.in);
             a = in.nextInt();
             b = in.nextInt();
