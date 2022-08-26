@@ -1,9 +1,8 @@
 package Bitwise_Operations;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
-public class negation_of_files {
+public class negation_of_numbers {
     public static void main(String[] args){
         // 2's compliment method
         /*
